@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JiaYiSound">
+    <output-path>$PROJECT_DIR$/out/artifacts/JiaYiSound</output-path>
+    <root id="archive" name="JiaYiSound.jar">
+      <element id="module-output" name="JiaYiSound" />
+    </root>
+  </artifact>
+</component>
